@@ -1,4 +1,4 @@
-# helper script for the ilppp app
+# helper script for the ilppp app.
 
 # load all packages
 library(rgdal)
